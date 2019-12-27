@@ -18,4 +18,4 @@ Screenshot of signup Page:
 ![Alt text](https://github.com/talha3111997/CRUD-App-in-Node.js/blob/master/signup4.JPG?raw=true "Main page of dictionary")
 
 
-Contributions would be much appreciated. 
+Any suggestions or Contributions would be much appreciated. 
