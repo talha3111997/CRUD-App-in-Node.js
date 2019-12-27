@@ -1,5 +1,5 @@
 # CRUD-App-in-Node.js
-Advance Programming course assignment
+Advance Programming course Assignment-1
 
 1. Improving the template/code found here: http://mfikri.com/en/blog/nodejs-mysql-crud
 2. I used handlebars as templating engine.
