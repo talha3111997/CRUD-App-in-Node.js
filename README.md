@@ -7,11 +7,12 @@ Advance Programming course Assignment-1
 4. MongoDb is used for users authentication. (I used mongoDb and mySQL both to gain experience of both)
 
 
+Screenshot of signin Page:
+![Alt text](https://github.com/talha3111997/CRUD-App-in-Node.js/blob/master/signin.JPG?raw=true "Main page of dictionary")
+
 Screenshot of Content Page: 
 ![Alt text](https://github.com/talha3111997/CRUD-App-in-Node.js/blob/master/content.JPG?raw=true "Main page of dictionary")
 
-Screenshot of signin Page:
-![Alt text](https://github.com/talha3111997/CRUD-App-in-Node.js/blob/master/signin.JPG?raw=true "Main page of dictionary")
 
 Screenshot of signup Page:
 ![Alt text](https://github.com/talha3111997/CRUD-App-in-Node.js/blob/master/signup4.JPG?raw=true "Main page of dictionary")
